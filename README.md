@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DidacLL
-- I'm a Backend Web Dev Student in @IronHack
+- I'm a software engineer on process!
+- Have a look to my resume at https://didacll.github.io/Didac-dev-project/
 - 📫 You can contact me also at https://github.com/VladScv/VladScv
 
 <!---
