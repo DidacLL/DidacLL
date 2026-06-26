@@ -1,6 +1,6 @@
 # Dídac Llorens
 
-Software engineering student at UOC, focused on ML/AI, agentic systems, and technical tooling. I build inspectable software artifacts from Barcelona.
+Software engineer building agentic systems, technical tooling and opensource solutions.
 
 ## Current Focus
 
@@ -13,7 +13,7 @@ Software engineering student at UOC, focused on ML/AI, agentic systems, and tech
 | Project | What to inspect |
 |---|---|
 | [AgenticCareerBoost](https://github.com/DidacLL/AgenticCareerBoost) | Path-based multiagent operating system, sprint records, formal reports, and static site source |
-| [Public site](https://didacll.github.io/AgenticCareerBoost/) | Human-facing overview of my current technical profile and selected projects |
+| [Public site](https://didacll.github.io) | Human-facing overview of my current technical profile and selected projects |
 | [P3CTeX](https://github.com/DidacLL/P3CTeX) | LaTeX document class and package ecosystem for reproducible academic documents |
 | [Agentic System Guide](https://github.com/DidacLL/AgenticCareerBoost/blob/main/content/reports/build/agentic-system-guide.pdf) | Human-facing manual for the path-based agentic system |
 
@@ -24,5 +24,5 @@ Before engineering, I spent 15 years in banking and insurance operations: regula
 ## Contact
 
 - LinkedIn: [linkedin.com/in/didacllorens](https://www.linkedin.com/in/didacllorens/)
-- Site: [didacll.github.io/AgenticCareerBoost](https://didacll.github.io/AgenticCareerBoost/)
+- Site: [didacll.github.io](https://didacll.github.io/)
 - Location: Barcelona, Catalonia
